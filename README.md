@@ -9,4 +9,5 @@
 - lesson5 - Starter template for lecture 5
 - lesson6 - Starter template for lecture 6
 - lesson7 - Starter template for lecture 7
+<br>
 completed - The completed application for this section
